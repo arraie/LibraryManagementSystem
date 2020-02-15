@@ -1,2 +1,2 @@
 # LibraryManagementSystem
-Designed a Library Database Management System which is suitable for public libraries
+Designed a Library Database Management System which is suitable for public libraries, it allows the library to keep track of information about borrowers. It also helps employees to arrange and retrieve information about variety of books in purpose of helping borrowers, intended to providing information such as number of available copies, list of books belong to practical category, maintaining the details of all item that were available in library.
